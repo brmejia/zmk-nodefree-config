@@ -76,7 +76,7 @@
 
 #define LF0 62  // left floor keys
 #define LF1 61
-#define LF2 62
+#define LF2 60
 #define LF3 59
 #define LF4 58
 #define LF5 57
